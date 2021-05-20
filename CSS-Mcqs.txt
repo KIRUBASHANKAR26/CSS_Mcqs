@@ -1,0 +1,349 @@
+1.Which of the following selector selects an element that has no children?
+A. :empty
+
+B. :nochild
+
+C. :inheritance
+
+D. :no-child
+
+Answer: Option A
+----------------------------------------------------------------------------------
+2.Which of the following selector selects the element that is the first child of its parent that is of its type?
+A. :first-of-type
+
+B. :last-child
+
+C. ::first-line
+
+D. ::first-letter
+
+Answer: Option A
+---------------------------------------------------------------------------------------
+3.Which of the following selector selects elements that do not match the selector s?
+A. :!(s)
+
+B. :nth-child(s)
+
+C. :not(s)
+
+D. none of the mentioned
+
+Answer: Option C
+---------------------------------------------------------------------------------------------
+4.Which of the following selector selects an element if it’s the only child of its parent?
+A. :root
+
+B. :nth-oftype(n)
+
+C. :only-child
+
+D. none of the mentioned
+
+Answer: Option C
+----------------------------------------------------------------------------------------------
+5.Which of the following selector selects the element that is the target of a referring URI?
+A. :target
+
+B. :selection
+
+C. ::selection
+
+D. :URI
+
+Answer: Option A
+-----------------------------------------------------------------------------------------------
+6.p {line-height: 150%;}.What type of selector is used in this case?
+A. class Selectors
+
+B. element Selectors
+
+C. id Selectors
+
+D. none of the mentioned
+
+Answer: Option B
+-------------------------------------------------------------------------------------------
+7.What will happen in this case?
+p strong {background-color: yellow;}
+A. Strong have yellow background
+
+B. Strong element within a p element have a yellow background
+
+C. Both p and strong have yellow background
+
+D. None of the mentioned
+
+Answer: Option B
+-----------------------------------------------------------------------------------------
+8.A similar rule called the ____________ is specified using the plus sign (+) and is used to select elements that would be siblings of each other.
+A. class selectors
+
+B. attribute selectors
+
+C. adjacent-sibling selector
+
+D. none of the mentioned
+
+Answer: Option C
+------------------------------------------------------------------------------------
+9.Which of the following selectors selects direct descendents?
+A. E > F
+
+B. E F
+
+C. E + F
+
+D. E ~ F
+
+Answer: Option A
+-----------------------------------------------------------------------------
+10.Which of the following selectors selects siblings?
+A. E.class
+
+B. E ~ F
+
+C. *
+
+D. E, F, G
+
+Answer: Option B
+----------------------------------------------------------------------------
+11.Which of the following selectors selects the specified elements of type E with a particular class value?
+A. E.class
+
+B. E ~ F
+
+C. *
+
+D. E, F, G
+
+Answer: Option A
+
+----------------------------------------------------------------------------------------
+12.Which of the following selectors selects adjacent siblings?
+A. E > F
+
+B. E F
+
+C. E + F
+
+D. E ~ F
+
+Answer: Option C
+--------------------------------------------------------------------------------------
+13.Which of the following css property specifies a delay for the transition effect?
+A. transition-delay
+
+B. transition-effect
+
+C. transition
+
+D. transition-duration
+
+Answer: Option A
+---------------------------------------------------------------------------------------
+14.Which of the following method rotates an element around its Y-axis at a given degree using tranform 3D?
+A. rotateY()
+
+B. rotate-Y()
+
+C. rotate-Yaxis()
+
+D. none of the mentioned
+
+Answer: Option A
+--------------------------------------------------------------------------------------------
+15.Which of the following CSS3 property specifies how the contents of a replaced element should be fitted to the box established by its used height and width?
+A. object-fit
+
+B. object-position
+
+C. image-orientation
+
+D. none of the mentioned
+
+Answer: Option A
+------------------------------------------------------------------------------
+16.Which of the following CSS3 property specifies the alignment of the replaced element inside its box?
+A. object
+
+B. object-allign
+
+C. object-position
+
+D. object-render
+
+Answer: Option C
+------------------------------------------------------------------------------------------
+17.Which of the following selector is used to select and style when you place mouse over it?
+A. focus
+
+B. hover
+
+C. mouse
+
+D. all of the mentioned
+
+Answer: Option B
+----------------------------------------------------------------------------------
+18.Which of the following method increases or decreases the size of an element using tranform?
+A. rotate()
+
+B. scale()
+
+C. translate()
+
+D. matrix()
+
+Answer: Option B
+---------------------------------------------------------------------------
+19.Which of the following property specifies the speed curve of the transition effect?
+A. transition-delay
+
+B. transition-duration
+
+C. transition-timing-function
+
+D. transition
+
+Answer: Option C
+---------------------------------------------------------------------------
+20.Which of the following method combines all the 2D transform methods into one using transform?
+A. combine()
+
+B. 2D-tranform()
+
+C. matrix()
+
+D. matrix-2D()
+
+Answer: Option C
+----------------------------------------------------------------------------------
+21.Which of the following CSS3 property is used to tell the browser what the sizing properties should be include?
+A. box-sizing
+
+B. box-model
+
+C. box-design
+
+D. box-redesign
+
+Answer: Option A
+-----------------------------------------------------------------------------------
+22.Which of the following selector is used to selects siblings?
+A. ::after
+
+B. E ~ F
+
+C. :checked
+
+D. E[attr^=value]
+
+Answer: Option B
+----------------------------------------------------------------------------
+23.Which of the following selector is used to selects the element that is the nth child of its parent?
+A. :nth-child(n)
+
+B. ::first-line
+
+C. :last-of-type
+
+D. :first-of-type
+
+Answer: Option A
+-----------------------------------------------------------------------------
+24.Which of the following measurement represent seconds?
+A. s
+
+B. se
+
+C. sec
+
+D. second
+
+Answer: Option A
+------------------------------------------------------------------------------
+25.The correct syntax to give a line over text is -
+
+a.text-decoration: line-through
+b.text-decoration: none
+c.text-decoration: overline
+d.text-decoration: underline
+ANS:C
+-------------------------------------------------------------------------------
+26. The CSS property used to set the indentation of the first line in a block of text is -
+
+a.text-indent property
+b.text-stroke property
+c.text-decoration property
+d.text-overflow property
+ANS:A
+---------------------------------------------------------------------------
+27.Which of the following CSS property is used to set the horizontal alignment of a table-cell box or the block element?
+
+a.text-align property
+b.text-transform property
+c.text-shadow property
+d.text-decoration
+ANS:A
+--------------------------------------------------------------------------------
+28.The CSS property used to specify the transparency of an element is -
+
+a.Hover
+b.opacity
+c.clearfix
+d.overlay
+ANS:B
+----------------------------------------------------------------------
+29.The CSS property which is used to define the set the difference between two lines of your content is -
+
+a.min-height property
+b.max-height property
+c.line-height property
+d.None of the above
+
+ANS:C
+---------------------------------------------------------------------
+30. Which of the following CSS property is used to represent the overflowed text which is not visible to the user?
+
+a.text-shadow
+b.text-stroke
+c.text-overflow
+d.text-decoration
+
+ANS:C
+---------------------------------------------------------------------------
+31. The CSS property used to set the distance between the borders of the adjacent cells in the table is -
+
+a.border-collapse
+b.border-radius
+c.border-spacing
+d.None of the above
+ANS:C
+-------------------------------------------------------------------------------
+32.The CSS property used to make the rounded borders, or rounded corners around an element is -
+
+a.border-collapse
+b.border-radius
+c.border-spacing
+d.None of the above
+ANS:B
+
+---------------------------------------------------------------------------------
+33.Which of the following CSS property is used to specify whether the table cells share the common or separate border?
+
+a.border-collapse
+b.border-radius
+c.border-spacing
+d.None of the above
+ANS:A
+
+34.Are the negative values allowed in padding property?
+
+a.Yes
+b.No
+c.Can't say
+d.May be
+ANS:B
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
